@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm judy chelangat</h1>
+<h1 align="center">Hi 👋, I'm judy sigilai</h1>
 <h3 align="center">Highly motivated, disciplined and professional with great passion for working with and getting accustomed to technology as it advances. Works well both as an individual and with a team. I believe my skills would help with the expansion the world is undergoing in the technological aspect and I want to be part of the growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judy-chelangat&label=Profile%20views&color=0e75b6&style=flat" alt="judy-chelangat" /> </p>
