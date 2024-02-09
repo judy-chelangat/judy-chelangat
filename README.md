@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 💬 Ask me about **react python**
+- 💬 Ask me about **react Javascript**
 
 - 📫 How to reach me **judysigilai75@gmail.com**
 
