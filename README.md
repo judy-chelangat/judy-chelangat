@@ -14,8 +14,6 @@
 <a href="https://twitter.com/judieysiggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/judieysiggy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/judy-chelangat-5969aa22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/judy-chelangat-b5969aa22" height="30" width="40" /></a>
 </p>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=judy-chelangat&show_icons=true&locale=en&layout=compact" alt="judy-chelangat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judy-chelangat&" alt="judy-chelangat" /></p>
